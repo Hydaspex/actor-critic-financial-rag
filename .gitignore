@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+.env
+.env.*
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+**/__pycache__/
+.vscode/
+.conda/
+*.py[cod]
+*.so
+*.egg-info/

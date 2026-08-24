@@ -1,0 +1,4 @@
+query,gold_doc_ids,reference_answer,task_type,risk_level,notes
+What changed in revenue and liquidity?,"['sec_10k_2025_apple']",Revenue increased and liquidity remained strong.,factual,medium,seed
+What macro condition is mentioned?,"['fred_dgs10_2026']",The 10-year Treasury yield remained elevated.,factual,low,seed
+What capital allocation pressure is noted?,"['sec_10q_2025_microsoft']",Capital expenditures remained elevated.,factual,medium,seed
